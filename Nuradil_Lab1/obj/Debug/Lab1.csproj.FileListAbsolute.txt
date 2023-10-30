@@ -1,0 +1,20 @@
+C:\Users\Atai Abdiev\Desktop\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Atai Abdiev\Desktop\Lab1\bin\Debug\Lab1.exe
+C:\Users\Atai Abdiev\Desktop\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Atai Abdiev\Desktop\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\Atai Abdiev\Desktop\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Atai Abdiev\Desktop\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Atai Abdiev\Desktop\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Atai Abdiev\Desktop\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Atai Abdiev\Desktop\Lab1\obj\Debug\Lab1.exe
+C:\Users\Atai Abdiev\Desktop\Lab1\obj\Debug\Lab1.pdb
+C:\Users\user\Desktop\labs-c-sharp\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\user\Desktop\labs-c-sharp\Lab1\bin\Debug\Lab1.exe
+C:\Users\user\Desktop\labs-c-sharp\Lab1\bin\Debug\Lab1.pdb
+C:\Users\user\Desktop\labs-c-sharp\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\labs-c-sharp\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\user\Desktop\labs-c-sharp\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\user\Desktop\labs-c-sharp\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\labs-c-sharp\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\labs-c-sharp\Lab1\obj\Debug\Lab1.exe
+C:\Users\user\Desktop\labs-c-sharp\Lab1\obj\Debug\Lab1.pdb
